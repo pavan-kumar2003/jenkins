@@ -19,7 +19,7 @@ pipeline {
         }
          stage('Deploy2') {
             steps {
-                echo 'Deploying automatically asndhgasdkhjsdafiualfhs'
+                echo 'hi pavan'
             }
         }
     }
