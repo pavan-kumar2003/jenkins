@@ -17,5 +17,10 @@ pipeline {
                 echo 'Deploying automatically'
             }
         }
+         stage('Deploy2') {
+            steps {
+                echo 'Deploying automatically asndhgasdkhjsdafiualfhs'
+            }
+        }
     }
 }
